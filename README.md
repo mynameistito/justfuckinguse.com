@@ -1,4 +1,4 @@
-# Justfuckinguse.com
+# JUST FUCKING USE...
 
 This site is managed by [Skiff](https://github.com/basecamp/kamal-skiff).
 
